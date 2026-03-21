@@ -1,0 +1,40 @@
+body{
+margin:0;
+font-family:Arial;
+}
+
+nav{
+padding:20px;
+background:#f5f5f5;
+}
+
+nav ul{
+display:inline;
+}
+
+nav li{
+display:inline;
+margin:10px;
+}
+
+.hero{
+height:100vh;
+padding:40px;
+}
+
+.left{
+display:inline-block;
+width:45%;
+}
+
+.right{
+display:inline-block;
+width:45%;
+}
+
+button{
+padding:10px 20px;
+background:blue;
+color:white;
+border:none;
+}
